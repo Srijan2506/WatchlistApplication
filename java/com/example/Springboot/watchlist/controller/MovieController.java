@@ -1,4 +1,4 @@
-package com.example.Springboot.watchlist.controller;
+package com.example.srijanshukla.Springboot.watchlist.controller;
 
 import java.util.HashMap;
 import java.util.List;
