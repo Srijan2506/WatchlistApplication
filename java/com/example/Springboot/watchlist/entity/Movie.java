@@ -1,4 +1,4 @@
-package com.example.Springboot.watchlist.entity;
+package com.example.srijanshukla.Springboot.watchlist.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
