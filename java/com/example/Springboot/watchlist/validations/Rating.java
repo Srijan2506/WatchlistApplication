@@ -1,4 +1,4 @@
-package com.example.Springboot.watchlist.validations;
+package com.example.srijanshukla.Springboot.watchlist.validations;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
