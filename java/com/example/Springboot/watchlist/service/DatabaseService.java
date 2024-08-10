@@ -1,4 +1,4 @@
-package com.example.Springboot.watchlist.service;
+package com.example.srijanshukla.Springboot.watchlist.service;
 
 import java.util.List;
 
