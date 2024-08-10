@@ -1,4 +1,4 @@
-package com.example.Springboot.watchlist.validations;
+package com.example.srijanshukla.Springboot.watchlist.validations;
 
 import javax.validation.ConstraintValidator;
 import javax.validation.ConstraintValidatorContext;
